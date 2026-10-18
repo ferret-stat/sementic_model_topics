@@ -1,0 +1,6 @@
+*.docx
+*.pptx
+datasets.csv
+stopswords.txt
+.vscode
+models
